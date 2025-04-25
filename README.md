@@ -39,25 +39,5 @@ Create a class called `Pet` with the following:
 
 ## ✅ Sample Output
 
-```bash
-Creating pet: Max
-Max is eating...
-Max is playing...
-Max is sleeping...
-Max's current status:
-Hunger: 2
-Energy: 8
-Happiness: 9
-Tricks: ['roll over', 'play dead']
+![image](https://github.com/user-attachments/assets/3694719a-0a18-4ee4-91bb-45ae993e8095)
 
-
-### 💡 Tips
-Use max() and min() to keep values between 0 and 10.
-
-Think about edge cases like trying to play when energy is 0.
-
-🏁 Submission
-
-Submission format: clone/fork this repo
-
-Bonus points for creativity (custom actions, emojis, pet types, etc.)
